@@ -18,7 +18,7 @@ public class City extends DataSupport {
     public String getCityName(){
         return cityName;
     }
-    public int getCityCdoe(){
+    public int getCityCode(){
         return cityCdoe;
     }
     public int getProvinceId(){
